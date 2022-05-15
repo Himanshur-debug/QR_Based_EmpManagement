@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 230, 237);
+
+}
+
+.help-block{
+    color: dodgerblue;
+    font-size: 13px;
+}
+
+h1{
+    background-color: #c1dbe6;
+    border-radius: 15px;
+}
